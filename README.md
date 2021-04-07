@@ -8,3 +8,4 @@ git clone test
 git add .
 git commit -m "commit description"
 ㅇㅇㅇ
+좋아요
