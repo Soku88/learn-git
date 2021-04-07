@@ -7,4 +7,4 @@ git clone test
 
 git add .
 git commit -m "commit description"
-ㅇㅇㅇ
+ㅇㅇㅇ 3. 싫어요
